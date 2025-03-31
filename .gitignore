@@ -72,3 +72,15 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ignore burst & IL2CPP binaries
+*.so
+*.dylib
+*.dll
+*.exe
+*.pdb
+*.apk
+*.ipa
+
+# Ignore Git LFS-tracked files (optional)
+.gitattributes

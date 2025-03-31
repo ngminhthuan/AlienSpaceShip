@@ -1,0 +1,615 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.32f1 (b2e806cf271c) revision 11724806'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'en' Physical Memory: 31941 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.32f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/Thuan/Alien Space Ship
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+59717
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: D:/Thuan/Alien Space Ship
+D:/Thuan/Alien Space Ship
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [33728]  Target information:
+
+Player connection [33728]  * "[IP] 192.168.100.188 [Port] 0 [Flags] 2 [Guid] 2680982234 [EditorId] 2680982234 [Version] 1048832 [Id] WindowsEditor(7,MinhTinh) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [33728] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [33728] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 616.42 ms, found 9 plugins.
+Preloading 1 native plugins for Editor in 2.46 ms.
+Initialize engine version: 6000.0.32f1 (b2e806cf271c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Thuan/Alien Space Ship/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28e0)
+    Vendor:   NVIDIA
+    VRAM:     7972 MB
+    Driver:   31.0.15.4692
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56928
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.009124 seconds.
+- Loaded All Assemblies, in  3.186 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 415 ms
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.146 seconds
+Domain Reload Profiling: 4326ms
+	BeginReloadAssembly (757ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (479ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (105ms)
+	LoadAllAssembliesAndSetupDomain (1813ms)
+		LoadAssemblies (753ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1805ms)
+			TypeCache.Refresh (1802ms)
+				TypeCache.ScanAssembly (1285ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1147ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1064ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (602ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (106ms)
+			ProcessInitializeOnLoadAttributes (221ms)
+			ProcessInitializeOnLoadMethodAttributes (128ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  3.833 seconds
+Refreshing native plugins compatible for Editor in 6.58 ms, found 9 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.499 seconds
+Domain Reload Profiling: 6328ms
+	BeginReloadAssembly (345ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (57ms)
+	RebuildCommonClasses (65ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (81ms)
+	LoadAllAssembliesAndSetupDomain (3315ms)
+		LoadAssemblies (2825ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (699ms)
+			TypeCache.Refresh (561ms)
+				TypeCache.ScanAssembly (534ms)
+			BuildScriptInfoCaches (114ms)
+			ResolveRequiredComponents (19ms)
+	FinalizeReload (2500ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1694ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (14ms)
+			BeforeProcessingInitializeOnLoad (367ms)
+			ProcessInitializeOnLoadAttributes (831ms)
+			ProcessInitializeOnLoadMethodAttributes (449ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 5.72 ms, found 9 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 230 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6755 unused Assets / (6.0 MB). Loaded Objects now: 7435.
+Memory consumption went from 187.1 MB to 181.1 MB.
+Total: 18.002500 ms (FindLiveObjects: 1.232100 ms CreateObjectMapping: 1.397300 ms MarkObjects: 9.657600 ms  DeleteObjects: 5.713700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 817850.406434 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/3Login1/line.png
+  artifactKey: Guid(c09eb058e4b616348b0017201e79aa3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/3Login1/line.png using Guid(c09eb058e4b616348b0017201e79aa3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e38dea1ccde5b5cbe218aa14f6ef57f5') in 0.1790816 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_Yuanbao.png
+  artifactKey: Guid(b5ee90dfb520c374b86c299764ff9a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_Yuanbao.png using Guid(b5ee90dfb520c374b86c299764ff9a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '03305a60d9f171fd5728014c5568bbf2') in 0.0329536 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Wrong.png
+  artifactKey: Guid(d926a478a083a7d48b22f6f407a8c9e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Wrong.png using Guid(d926a478a083a7d48b22f6f407a8c9e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '391b30fc994bcfe9a3d1d714b0bef545') in 0.0266854 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Title_Icons1.png
+  artifactKey: Guid(cbe108d5021e94d42bff997b40a7cb92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Title_Icons1.png using Guid(cbe108d5021e94d42bff997b40a7cb92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd28cb65227421e05863bc16a0bd825b6') in 0.0259894 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Components4/switch02-off.png
+  artifactKey: Guid(911fb7dff2c356547b25e6b40f83f1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Components4/switch02-off.png using Guid(911fb7dff2c356547b25e6b40f83f1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e743682c0eae1378be70a3a4ec2d41c') in 0.0276677 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_Water.png
+  artifactKey: Guid(7e543186536d1b940965f33041c9cb39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_Water.png using Guid(7e543186536d1b940965f33041c9cb39) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2b1e05d127d7b971942b80cde7982c37') in 0.0253273 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/3Login1/Window_Login.png
+  artifactKey: Guid(266da0c355a62b54c89457587faddc44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/3Login1/Window_Login.png using Guid(266da0c355a62b54c89457587faddc44) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '023909c553ac94faa722f04f8b688ea8') in 0.0376646 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.222777 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_User1.png
+  artifactKey: Guid(93a36a91de19de347b7ecf847fa819d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_User1.png using Guid(93a36a91de19de347b7ecf847fa819d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'addb58a99e9e8feddda14df8ae69e0ce') in 0.0224206 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/3Login1/Icon_UserName1.png
+  artifactKey: Guid(940a9c1b211d06f44888dc82f080d684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/3Login1/Icon_UserName1.png using Guid(940a9c1b211d06f44888dc82f080d684) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7b11e28c5ef3301bc2915b00163aa7e0') in 0.0283312 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Up3.png
+  artifactKey: Guid(d672ead9d6c9a2740b65c7e591c55d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Up3.png using Guid(d672ead9d6c9a2740b65c7e591c55d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0002abb74e35fef8b9e2276e86b324e') in 0.0253327 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_User-plus.png
+  artifactKey: Guid(23d88dead969bc44dad23b0ae4598cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_User-plus.png using Guid(23d88dead969bc44dad23b0ae4598cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '81ea52dc4cb5c395f47f2800d6306546') in 0.0259101 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.793738 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_Trousers.png
+  artifactKey: Guid(31f9aa0350992634da274309c6abbfd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_Trousers.png using Guid(31f9aa0350992634da274309c6abbfd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '628d6c21ec23c5c605f9940459c01d98') in 0.0361074 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_UnPraise.png
+  artifactKey: Guid(a1dd4f8755b0f184cab2de677fced6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_UnPraise.png using Guid(a1dd4f8755b0f184cab2de677fced6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ed9e5bf3a8c09489fb09e1b437553701') in 0.0373475 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019424 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_Tips.png
+  artifactKey: Guid(9d9b19229b43daf49a9de7bdf6ab0d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_Tips.png using Guid(9d9b19229b43daf49a9de7bdf6ab0d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3e60b529a23045bcc6b15529b08b4524') in 0.0284945 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Tips4.png
+  artifactKey: Guid(c7588785622754c4591ae3dfe07cf4ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Tips4.png using Guid(c7588785622754c4591ae3dfe07cf4ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '62d037f8246b05d41976a41404455a9c') in 0.0265638 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.185287 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_Taxi.png
+  artifactKey: Guid(f0bc499b8ae296046b595640ba1ad119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_Taxi.png using Guid(f0bc499b8ae296046b595640ba1ad119) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6338b32618b1c5823c08af93c8385f23') in 0.0294322 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_Third2.png
+  artifactKey: Guid(374416060fc365640aa1c9a7056728ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_Third2.png using Guid(374416060fc365640aa1c9a7056728ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e1ae489aa18f152ae33d4e1e2e29fe6') in 0.0259373 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.236764 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_Sun.png
+  artifactKey: Guid(7c536c3322895954c95d114305537088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_Sun.png using Guid(7c536c3322895954c95d114305537088) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f1426c530f3cfdf28bbc75c586d83a7c') in 0.0263625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_Target.png
+  artifactKey: Guid(9e406253d198e3144bfc5127c13048a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_Target.png using Guid(9e406253d198e3144bfc5127c13048a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '48f60605c4e270b9f14ba3ad816d8ce9') in 0.0311621 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035284 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Star1.png
+  artifactKey: Guid(431922d5b048ccd43a9ce25241874003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Star1.png using Guid(431922d5b048ccd43a9ce25241874003) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8e74ec566f5844cb74a4aa72ae4756e8') in 0.029083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Stop.png
+  artifactKey: Guid(37f154a306d4978459509cfe4b63fefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Stop.png using Guid(37f154a306d4978459509cfe4b63fefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9fee41b7500b32e1f14de134afce34ed') in 0.0243787 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.189898 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_Share.png
+  artifactKey: Guid(1328c58021660c443b2e52bf05503704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_Share.png using Guid(1328c58021660c443b2e52bf05503704) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '499c6add3e14fae6d866b25b9c2756f9') in 0.025624 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_Shop.png
+  artifactKey: Guid(76857ca718f1ca1408ad954209aa762e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_Shop.png using Guid(76857ca718f1ca1408ad954209aa762e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '13687844ceefd34dde9906358000e222') in 0.0252974 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_Signallamp.png
+  artifactKey: Guid(08103a1738457c548abef848a8523eca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_Signallamp.png using Guid(08103a1738457c548abef848a8523eca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a624719ae4d2d15d6e922bf24e8f4785') in 0.0295877 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_star.png
+  artifactKey: Guid(a4ac966ee6d4ed842aca455f7054d996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_star.png using Guid(a4ac966ee6d4ed842aca455f7054d996) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '39accd39e30a294f06bb753b4b9c3f90') in 0.0244154 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.177008 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_Run2.png
+  artifactKey: Guid(46adcf9977f93a14e86e00f8be0ff38b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_Run2.png using Guid(46adcf9977f93a14e86e00f8be0ff38b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '550c1936064767a1a415fd990366edd7') in 0.0297089 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_Search-file.png
+  artifactKey: Guid(f278ac1523c732446a929e1f66fa1218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_Search-file.png using Guid(f278ac1523c732446a929e1f66fa1218) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c11d4c14e475d97effa96163ca5a8488') in 0.0262449 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.137062 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_Restaurant.png
+  artifactKey: Guid(c65f230ac6578d243920568a4b1048f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_Restaurant.png using Guid(c65f230ac6578d243920568a4b1048f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8836bba994695e36313aff3a3fb3159f') in 0.021536 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/icon_Rocket.png
+  artifactKey: Guid(37c7faa38711a6044bf12b84912e0dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/icon_Rocket.png using Guid(37c7faa38711a6044bf12b84912e0dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8bfcbe1c5bf2a807e867ba9e15b05dbc') in 0.025915 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.247571 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_racing.png
+  artifactKey: Guid(bd6cd7ffc257f2f41bb270848404411a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_racing.png using Guid(bd6cd7ffc257f2f41bb270848404411a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a8a0bb9080ffc73a45eca7953e4254e') in 0.0232213 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_Recharge.png
+  artifactKey: Guid(8a26e441bd51f3d4eb449498d37731b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_Recharge.png using Guid(8a26e441bd51f3d4eb449498d37731b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8f05d4328b7dc3c948a583f0874ac668') in 0.0231931 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035570 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/ICON_previous3.png
+  artifactKey: Guid(54080316849e51d4683379427b55e6d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/ICON_previous3.png using Guid(54080316849e51d4683379427b55e6d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '08c3c195f1745acffd14727de9c6c54d') in 0.0314789 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_prohibit.png
+  artifactKey: Guid(329c88ab060566140a971c109347eb2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_prohibit.png using Guid(329c88ab060566140a971c109347eb2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a82b402101f2948665ec4b93935690df') in 0.0337057 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032296 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_Praise.png
+  artifactKey: Guid(5d47847f4720ade45b61b5958fc63cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_Praise.png using Guid(5d47847f4720ade45b61b5958fc63cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c40c0adf5222ae4ce85dc0248fb61131') in 0.0231769 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Previous1.png
+  artifactKey: Guid(5b2b5b3c97407f640a93a38cc6ceb485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Previous1.png using Guid(5b2b5b3c97407f640a93a38cc6ceb485) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c218f0dcb0425bbb246a2d650f5fdba6') in 0.0279972 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043285 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_PieChart.png
+  artifactKey: Guid(6a6f158a866051346b1cfee96f3edd70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_PieChart.png using Guid(6a6f158a866051346b1cfee96f3edd70) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ad83bf443384626b56c9ed3e9d533399') in 0.0254302 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/ICON_play1.png
+  artifactKey: Guid(3d190e115e34be74ab4b75dcab8087e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/ICON_play1.png using Guid(3d190e115e34be74ab4b75dcab8087e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '079a2d0b67b0d2bb4d6c5d2f1c913222') in 0.0298292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035911 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Pause.png
+  artifactKey: Guid(e36eb343190726140bc5a38cf6b03d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Pause.png using Guid(e36eb343190726140bc5a38cf6b03d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db557d660b747d5e04f55f982e6a6683') in 0.0251192 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/ICON_Person.png
+  artifactKey: Guid(f35238a7de36f264abdbef036bf7a39c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/ICON_Person.png using Guid(f35238a7de36f264abdbef036bf7a39c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3ec8a0c7fba2e8a686267be9999647cd') in 0.0246763 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.144910 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Notice.png
+  artifactKey: Guid(bbd5a8c5e42560141a7ab6585b71cfa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Notice.png using Guid(bbd5a8c5e42560141a7ab6585b71cfa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9b9758c586cde8fe2ac95913a80b25a4') in 0.0262708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/3Login1/Icon_Password1.png
+  artifactKey: Guid(7d07503ed8e93334a95f61db2385fdc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/3Login1/Icon_Password1.png using Guid(7d07503ed8e93334a95f61db2385fdc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b8558c5561f40860c2917f53526c6546') in 0.0223202 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044977 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/ICON_Narrow.png
+  artifactKey: Guid(52d005d0b20239e44b2e65e053712b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/ICON_Narrow.png using Guid(52d005d0b20239e44b2e65e053712b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6e26907cda45f224eaa54f1ef3f2b723') in 0.0258193 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_News.png
+  artifactKey: Guid(65ddbdbde24c762498509a365bf6ff76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_News.png using Guid(65ddbdbde24c762498509a365bf6ff76) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5825dba829e78ab885cd43e985813596') in 0.0283375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/ICON_next3.png
+  artifactKey: Guid(fd79ec354cc985b45b6ff60ccb692e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/ICON_next3.png using Guid(fd79ec354cc985b45b6ff60ccb692e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '57ac2c9dd79670880af5b1e3389d4b8c') in 0.0276459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Next5.png
+  artifactKey: Guid(30bd29cbf025993468871b74628cf753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Next5.png using Guid(30bd29cbf025993468871b74628cf753) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1168e227b3d6cede436a0657aab6fb41') in 0.0268832 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_Money1.png
+  artifactKey: Guid(2c491632b392aa14db373a587f52e01d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_Money1.png using Guid(2c491632b392aa14db373a587f52e01d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '60329e6cf1297c365248a895f60f4636') in 0.024793 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_Money4.png
+  artifactKey: Guid(65ba995917bdf9b42a0b55e044a15cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_Money4.png using Guid(65ba995917bdf9b42a0b55e044a15cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e70bef285f7081ae3d81b8223cad7d9b') in 0.0257649 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_MotoBike.png
+  artifactKey: Guid(13066f01cab93144aa8179d7b5d672e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons2/Icon_MotoBike.png using Guid(13066f01cab93144aa8179d7b5d672e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a71fdc7651e4b089df4e3cc15bb65411') in 0.0289748 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/ICON_Music2.png
+  artifactKey: Guid(3469972c102b71e4eb097466bed36b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/ICON_Music2.png using Guid(3469972c102b71e4eb097466bed36b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9d15eada5d3fdf867da6d3230ffec8dc') in 0.025964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_Message1.png
+  artifactKey: Guid(80c0315ddadd29c4a8ff10e98a273519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons4/Icon_Message1.png using Guid(80c0315ddadd29c4a8ff10e98a273519) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b796468c5b6ff8b931b026ad62ee37fd') in 0.0229148 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/ICON_Minus.png
+  artifactKey: Guid(fc18c529afc06fe4db62aa2cb1042f09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/ICON_Minus.png using Guid(fc18c529afc06fe4db62aa2cb1042f09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd9fee8ec41305144604263e0a7676f9e') in 0.0243831 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032445 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_Maximization.png
+  artifactKey: Guid(f51de939bc2ba124194cdcd16d50f89b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons3/Icon_Maximization.png using Guid(f51de939bc2ba124194cdcd16d50f89b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eecac5af3226f947a05a3d992500ee8d') in 0.0248245 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Menu.png
+  artifactKey: Guid(61b8f086cb7a96146a1c0b94507a9e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alien Space Ship/Assets/Sprites/Sliced Elements/Icons1/Icon_Menu.png using Guid(61b8f086cb7a96146a1c0b94507a9e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a69dd4f509638a5f2a06fab77390618b') in 0.0275174 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
